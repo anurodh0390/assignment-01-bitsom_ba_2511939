@@ -1,0 +1,36 @@
+[
+  {
+    "product_id": "E101",
+    "name": "Gaming Laptop",
+    "category": "Electronics",
+    "price": 75000,
+    "specifications": {
+      "processor": "Intel i7",
+      "ram": "16GB",
+      "warranty_years": 2
+    },
+    "in_stock": true
+  },
+  {
+    "product_id": "C201",
+    "name": "Cotton T-Shirt",
+    "category": "Clothing",
+    "price": 999,
+    "details": {
+      "sizes": ["S", "M", "L", "XL"],
+      "color": "Ocean Blue",
+      "material": "100% Cotton"
+    }
+  },
+  {
+    "product_id": "G301",
+    "name": "Organic Honey",
+    "category": "Groceries",
+    "price": 450,
+    "expiry_date": "2024-12-31",
+    "nutritional_info": {
+      "calories": 60,
+      "sugar": "17g"
+    }
+  }
+]
